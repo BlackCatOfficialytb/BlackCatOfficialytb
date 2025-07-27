@@ -1,6 +1,6 @@
 - Vietnamese 🇻🇳
 - Quân Vũ Minh (alt acc (main one is Quanvm0501))
-- Python, C++, Lua
+- Python, C++, HTML/CSS/JS, Sometimes Lua and Java
 - Code dạo, ko code thuê 🤫🧏‍♂️ / Code for fun, not code for money 🤫🧏‍♂️
 - Trước Khi Gửi EMAIL / BEFORE SEND EMAIL: [NoHello](https://nohello.net/)
 <!---
