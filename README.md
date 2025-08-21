@@ -11,3 +11,4 @@ You can click the Preview link to take a look at your changes.
 ### Code dạo, ko code thuê 🤫🧏‍♂️ / Code for fun, not code for money 🤫🧏‍♂️
 ## Trước Khi Gửi EMAIL / BEFORE SEND EMAIL: [NoHello](https://nohello.net/)
 ## Không reply với mấy thg súc vật china hay đòi hoàng sa trường sa là của nó / won't reply to those Chinese guy who claim Hoang Sa and Truong Sa is them.
+<img width="1212" height="743" alt="image" src="https://github.com/user-attachments/assets/0f0d7e71-0c96-4bd4-a4ab-5341d0991453" />
