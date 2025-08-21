@@ -4,6 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # BlackCatOfficial
 ## Vietnamese 🇻🇳
+# Đjt mej 🐶 đẻ súc vật tụi tư bản / F c u k you capitalists!
 ## Python, C++, HTML/CSS/JS, Sometimes Lua and Java
 ### Code dạo, ko code thuê 🤫🧏‍♂️ / Code for fun, not code for money 🤫🧏‍♂️
 ## Trước Khi Gửi EMAIL / BEFORE SEND EMAIL: [NoHello](https://nohello.net/)
