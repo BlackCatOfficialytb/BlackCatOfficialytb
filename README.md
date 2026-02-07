@@ -6,8 +6,7 @@ You can click the Preview link to take a look at your changes.
 ## [Linktree](https://linktr.ee/blackcatofficialytb) 
 ## Vietnamese 🇻🇳
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,lua,windows,linux,vscode,html,css,js)](https://skillicons.dev)
-## I made a mistake that fork a project that's contain a lot of HTML but my actural programming language is Python
-[![My Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BlackCatOfficialytb)](https://github.com/Pranesh-2005/github-readme-stats)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/BlackCatOfficialYTB?cardType=level&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 # Nghe bài [trình](https://www.youtube.com/watch?v=7kO_ALcwNAw) chưa? / Are you listen to [trình](https://www.youtube.com/watch?v=7kO_ALcwNAw)?
 # Nghe [Adamn](https://zingmp3.vn/bai-hat/ADAMN-Binh-Gold/Z8UOBUWI.html) chưa? / Are you listen to [Adamn](https://zingmp3.vn/bai-hat/ADAMN-Binh-Gold/Z8UOBUWI.html)?
 # Đjt mej 🐶 đẻ súc vật tụi tư bản / F c u k you capitalists!
