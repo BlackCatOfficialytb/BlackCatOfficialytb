@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 ## Vietnamese 🇻🇳
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,lua,windows,linux,vscode,html,css,js)](https://skillicons.dev)
 ## I made a mistake that fork a project that's contain a lot of JS but my actural programming language is Python
-[![BlackCatOfficial's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackCatOfficialytb)](https://github.com/anuraghazra/github-readme-stats)
+[![My Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BlackCatOfficialytb)](https://github.com/Pranesh-2005/github-readme-stats)
 # Nghe bài [trình](https://www.youtube.com/watch?v=7kO_ALcwNAw) chưa? / Are you listen to [trình](https://www.youtube.com/watch?v=7kO_ALcwNAw)?
 # Nghe [Adamn](https://zingmp3.vn/bai-hat/ADAMN-Binh-Gold/Z8UOBUWI.html) chưa? / Are you listen to [Adamn](https://zingmp3.vn/bai-hat/ADAMN-Binh-Gold/Z8UOBUWI.html)?
 # Đjt mej 🐶 đẻ súc vật tụi tư bản / F c u k you capitalists!
